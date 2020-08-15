@@ -1,0 +1,39 @@
+.mapa{
+position: fixed;
+color: white;
+top: 150px;
+left: 50px;
+border: 3px solid #ABADB0;
+border-radius: 3;
+height: 590px;
+width: 560px;
+font-family: aldhabi;
+
+}
+@media screen and (max-width:800px ) {
+   .mapa{
+      padding-top:80px;
+    width: 100%;
+    height: 100%;
+    left: -100%;
+    margin: 0;
+    position: relative;
+       }
+}
+
+.info {
+	position: fixed;
+	font-family: arial;
+color: black;
+right: 0px;
+left: 800px;
+top: 150px;
+}
+.info a {
+	color: #0066FF;
+	font-family: arial;
+
+}
+.info i {
+	font-size: 10px;
+}

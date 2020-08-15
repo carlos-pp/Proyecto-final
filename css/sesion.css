@@ -1,0 +1,30 @@
+.inicio {
+position: relative;
+padding: 8px;
+left: 200px;
+top: 100px;
+}
+.inicio input{
+
+background:white;
+border-radius: 8px;
+border:2px solid #A2A2A2 ;
+padding: 8px;
+
+}
+
+
+.boton input {
+
+  text-align: center;
+    width: 50px;
+    border:0px solid #0B61E5;
+    color: white;
+    font-size: 15px;
+    font-family: Verdana;
+    background: #0B61E5;
+    width: 100px;
+    height: 40px;
+    padding: 1px;
+
+}
